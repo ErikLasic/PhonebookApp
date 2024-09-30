@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="marginTop">5dp</dimen>
+    <dimen name="marginEnd">5dp</dimen>
+    <dimen name="fontSize">15sp</dimen>
+    <dimen name="titleMarginTop">50dp</dimen>
+</resources>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PhonebookApp</string>
+    <string name="aplikacija_je_namenjena_hranjenju_telefonskih_tevilk_in_osebnih_podatkov_na_njej_lahko_poi_ete_kontakt_drugih_ljudi">Aplikacija je namenjena hranjenju telefonskih številk in osebnih podatkov. Na njej lahko poiščete kontakt drugih ljudi</string>
+    <string name="ime_avtorja">Ime avtorja:</string>
+    <string name="_1_2">1.3</string>
+    <string name="verzija_aplikacije">Verzija aplikacije:</string>
+    <string name="opis_aplikacije">Opis aplikacije:</string>
+    <string name="phonebook">Telefonski imenik</string>
+    <string name="ime_aplikacije">Name of application:</string>
+    <string name="home">DOMOV</string>
+    <string name="about">O APLIKACIJI</string>
+    <string name="exit">IZHOD</string>
+    <string name="add">DODAJ</string>
+    <string name="info">INFO</string>
+    <string name="house_number">Hišna številka</string>
+    <string name="postcode">Poštna številka</string>
+    <string name="city">Mesto</string>
+    <string name="name_and_surname">Ime in priimek</string>
+    <string name="phone_number">Telefonska številka</string>
+    <string name="_25">25</string>
+    <string name="_070799277">0707997277</string>
+    <string name="erik_la_i">Erik Lašič</string>
+    <string name="ptuj">Ptuj</string>
+    <string name="_2250">2250</string>
+    <string name="phonebookimage">Slika imenika</string>
+    <string name="phonebook_app">Telefonski imenik</string>
+    <string name="users">Users</string>
+</resources>
